@@ -72,3 +72,4 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | ✅ [CodePath](https://www.codepath.org/plan-your-codepath) | All student | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting event, etc.  |
 | ✅ [Forage](https://www.theforage.com/) | All student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
 | ✅ Hacker News Who is Hiring? | All student | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". |
+| ✅ [Equal Opportunity Applications](https://www.eop.com/index.php) | All student | Job fairs for diverse candidates |
