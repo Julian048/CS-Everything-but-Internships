@@ -2,7 +2,7 @@
 
 Curated list of programs, fellowships, and insight series for CS students
 
-Inspiration goes to @codicate for making the [underclassman version](https://github.com/codicate/underclassmen-internships) that this is based off.
+Inspiration goes to @codicate for making the [underclassman version](https://github.com/codicate/underclassmen-internships) thats kitted with tons of internships and programs dedicated to underclassmen that this is based off of.
 
 Will do my best to update frequently Stars & PR appreciated!!
 
