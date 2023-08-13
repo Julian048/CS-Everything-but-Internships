@@ -64,6 +64,12 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 
 <br/>
 
+## Mentorship/Teaching Positions
+| Name | Year | Note |
+| ---- | ---- | ---- |
+| [Standford Code in Place](https://codeinplace.stanford.edu/) | All Student | Apply to be a section leader for experience similar to being a university TA |
+
+
 ## Special Programs & Resources
 
 | Name | Year | Note |
@@ -72,4 +78,5 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | ✅ [CodePath](https://www.codepath.org/plan-your-codepath) | All student | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting event, etc.  |
 | ✅ [Forage](https://www.theforage.com/) | All student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
 | ✅ Hacker News Who is Hiring? | All student | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". |
-| ✅ [Equal Opportunity Publications](https://www.eop.com/index.php) | All student | Job fairs for diverse candidates |
+| ✨✅ [Equal Opportunity Publications](https://www.eop.com/index.php) | All student | Job fairs for diverse candidates |
+| ✨✅ [BaddieCon](https://www.eop.com/index.php](https://www.baddiesintech.com/baddiecon)) | All student | Convention for women of color in tech |
