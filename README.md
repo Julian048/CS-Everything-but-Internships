@@ -1,6 +1,8 @@
 # CS-Programs-Fellowships-Insights
 
-Curated list of programs, fellowships, and insight series for CS students
+Curated list of programs, fellowships, insight series, and more for CS students. Many lists exist for internships, but not for other types of resources.
+
+An initative of ColorStack at Binghamton University. Follow us on instagram @colorstackbu
 
 Inspiration goes to @codicate for making the [underclassman version](https://github.com/codicate/underclassmen-internships) thats kitted with tons of internships and programs dedicated to underclassmen that this is based off of.
 
