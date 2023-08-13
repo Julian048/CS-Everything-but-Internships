@@ -37,6 +37,7 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
+| ✨ [Jane Street INFOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/) | All student | Insight into Jane Street for trading, software engineering, and strategy/product design |
 
 <br/>
 
