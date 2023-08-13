@@ -84,3 +84,10 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | ✅ Hacker News Who is Hiring? | All student | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". |
 | ✨✅ [Equal Opportunity Publications](https://www.eop.com/index.php) | All student | Job fairs for diverse candidates |
 | ✨✅ [BaddieCon](https://www.eop.com/index.php](https://www.baddiesintech.com/baddiecon)) | All student | Convention for women of color in tech |
+
+<br/>
+
+## Scholarships
+| Name | Year | Note |
+| ---- | ---- | ---- |
+| ✨ [Google Lime](https://buildyourfuture.withgoogle.com/scholarships/google-lime-scholarship) | All student | 10,000 USD scholarship for students with disabilities (visible or invisible) in computer science. |
