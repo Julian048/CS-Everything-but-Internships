@@ -30,6 +30,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [Bellingcat Tech Fellow](https://www.bellingcat.com/become-a-bellingcat-tech-fellow-2/) | All student | 2-6 month self-paced program to work on open source research tools. Stipend available |
 | ⛔ Trail of Bits | All student | Work on cybersecurity related projects durign winter break. [Vulnerability Research](https://jobs.lever.co/trailofbits/5c836c41-04d0-4f16-8f7d-e3cfdc33191b) and [Open Source](https://jobs.lever.co/trailofbits/6a491883-3aaf-444e-a56c-3a0b37d6837e). Stipend available |
 | [Impact Labs Fellowship](https://www.impactlabs.io/fellowship) | All student | 2-week program in NYC during winter break. Financial assistance available |
+| ✅ [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | 3rd-year students | 8-12 week program. Focused on students from underrepresented backgrounds|
 
 
 
@@ -52,6 +53,8 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | ⛔ ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | Match Black & Latinx students to summer internships. Closed late July this year... |
 | [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | Provides a shared housing community for NYC interns. Financial aid avaliable. Match a few of the applicants to NYC tech start-ups too |
 | [Hack Diversity](https://www.hackdiversity.com/) | All Student  | Provides preparation for and high matching rate for students in the Boston and NYC with Summer internships |
+| ✅ [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | 3rd-year students | 8-12 week program. Focused on students from underrepresented backgrounds|
+
 
 <br/>
 
