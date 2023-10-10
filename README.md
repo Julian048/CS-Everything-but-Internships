@@ -31,6 +31,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | ⛔ Trail of Bits | All student | Work on cybersecurity related projects durign winter break. [Vulnerability Research](https://jobs.lever.co/trailofbits/5c836c41-04d0-4f16-8f7d-e3cfdc33191b) and [Open Source](https://jobs.lever.co/trailofbits/6a491883-3aaf-444e-a56c-3a0b37d6837e). Stipend available |
 | [Impact Labs Fellowship](https://www.impactlabs.io/fellowship) | All student | 2-week program in NYC during winter break. Financial assistance available |
 | ✅ [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | 3rd-year students | 8-12 week program. Focused on students from underrepresented backgrounds|
+| ⛔ [Break Through Tech AI Fellowship]([https://www.bvp.com/bessemer-fellows](https://tech.cornell.edu/impact/break-through-tech/break-through-ai/)) | All Student| 1 year virtual program starting in the summer . Focused on females/nonbinary students and students from underrepresented backgrounds.|
 
 
 
