@@ -56,14 +56,14 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships.
 <br/>
 
 ## Externships/Insight Series
-These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinasr, training, networking event, and hackathon.
+These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinars, training, networking event, and hackathon.
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
 | ✨ [Jane Street INFOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/) | All student | Insight into Jane Street for trading, software engineering, and strategy/product design |
 | ✨ [Jane Street INSIGHT](https://www.janestreet.com/join-jane-street/programs-and-events/insight/)| All student | Insight into Jane Street for women, transgender, and gender-expansive people |
 | ✨ [Jane Street FOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/focus/) | All student | Insight into Jane Street |
-| ✨ [Nordstrom Nspire](https://careers.nordstrom.com/#/tech/tech-home) | All student | Insight into technology at Nordstrom. Control F nspire on the career site to find it |
+| ✨ [Nordstrom Nspire](https://careers.nordstrom.com/#/tech/tech-home) | All student | Insight into technology at Nordstrom and interview for internship at the end. Control F nspire on the career site to find it |
 
 <br/>
 
@@ -85,6 +85,8 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | Hacker News Who is Hiring? | All student | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". |
 | ✨ [Equal Opportunity Publications](https://www.eop.com/index.php) | All student | Job fairs for diverse candidates |
 | ✨ [BaddieCon](https://www.eop.com/index.php](https://www.baddiesintech.com/baddiecon)) | All student | Convention for women of color in tech |
+| ✨ [MLH](https://mlh.io/) | All student | Find information about hackathons happening and hosting hackathons |
+| ✨ [Devpost](https://devpost.com/) | All student | Find information about hackathons happening across schools and companies |
 
 <br/>
 
