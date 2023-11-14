@@ -90,6 +90,7 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | ✨ [AfroTech](https://experience.afrotech.com/conference/) | All student | Technology conference for Black students |
 | ✨ [SHPE](https://shpe.org/) | All student | Organization for Hispanic students in any engineering discipline. Host yearly conference |
 | ✨ [Grace Hopper](https://ghc.anitab.org/) | All student | Technology conference for women and non-binary identifying students |
+| ✨ [LSLS](https://buildyourfuture.withgoogle.com/events/latinxstudentleadershipsummit) | All student | Sponsored by Google in partnership with the Hispanic Association of Colleges and Universities (HACU) and the Computing Alliance of Hispanic Serving Institutions (CAHSI), will gather students from across the US and Puerto Rico for a two day summit. |
 
 
 
