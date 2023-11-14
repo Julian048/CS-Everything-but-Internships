@@ -34,7 +34,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 
 
 ## Internship-matching Fellowships
-A type of fellowship hosted by NPOs/VCs for matching students to internships. Usually not exclusive to underclassmen, but gives us a fair shot
+A type of fellowship hosted by NPOs/VCs for matching students to internships.
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
@@ -49,6 +49,7 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | Provides a shared housing community for NYC interns. Financial aid avaliable. Match a few of the applicants to NYC tech start-ups too |
 | [Hack Diversity](https://www.hackdiversity.com/) | All Student  | Provides preparation for and high matching rate for students in the Boston and NYC with Summer internships |
 | [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | 3rd-year students | 8-12 week program. Focused on students from underrepresented backgrounds|
+| [Susa Summer Fellowship](https://susaventures.com/summer-fellows) | All student | An immersive summer program that connects high-performing university students to software engineering internships at startups in the Susa portfolio|
 
 
 <br/>
