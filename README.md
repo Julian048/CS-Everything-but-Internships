@@ -87,6 +87,11 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | ✨ [BaddieCon](https://www.eop.com/index.php](https://www.baddiesintech.com/baddiecon)) | All student | Convention for women of color in tech |
 | ✨ [MLH](https://mlh.io/) | All student | Find information about hackathons happening and hosting hackathons |
 | ✨ [Devpost](https://devpost.com/) | All student | Find information about hackathons happening across schools and companies |
+| ✨ [AfroTech](https://experience.afrotech.com/conference/) | All student | Technology conference for Black students |
+| ✨ [SHPE](https://shpe.org/) | All student | Organization for Hispanic students in any engineering discipline. Host yearly conference |
+| ✨ [Grace Hopper](https://ghc.anitab.org/) | All student | Technology conference for women and non-binary identifying students |
+
+
 
 <br/>
 
