@@ -8,8 +8,6 @@ Inspiration goes to @codicate for making the [underclassman version](https://git
 
 Will do my best to update frequently Stars & PR appreciated!!
 
-Note: Open/close status is not updated daily. Check yourself just to be sure
-
 ✨ = diversity program
 
 <br/>
@@ -36,7 +34,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 
 
 ## Internship-matching Fellowships
-A type of fellowship hosted by NPOs/VCs for matching students to internships. Usually not exclusive to underclassmen, but gives us a fair shot
+A type of fellowship hosted by NPOs/VCs for matching students to internships.
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
@@ -51,18 +49,21 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | Provides a shared housing community for NYC interns. Financial aid avaliable. Match a few of the applicants to NYC tech start-ups too |
 | [Hack Diversity](https://www.hackdiversity.com/) | All Student  | Provides preparation for and high matching rate for students in the Boston and NYC with Summer internships |
 | [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | 3rd-year students | 8-12 week program. Focused on students from underrepresented backgrounds|
+| [Susa Summer Fellowship](https://susaventures.com/summer-fellows) | All student | An immersive summer program that connects high-performing university students to software engineering internships at startups in the Susa portfolio|
+| [Coding It Forward Fellowship](https://www.codingitforward.com/fellowship) | All student | Coding it Forward’s Fellowship is a paid, 10-week summer opportunity for early-career technologists. Students are matched with a government entity for an internship experience.|
 
 
 <br/>
 
 ## Externships/Insight Series
-These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinasr, training, networking event, and hackathon. Note that almost every big-tech & bank has one of these program, but I'm only highlighting ones exclusive to underclassmen
+These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinars, training, networking event, and hackathon.
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
 | ✨ [Jane Street INFOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/) | All student | Insight into Jane Street for trading, software engineering, and strategy/product design |
 | ✨ [Jane Street INSIGHT](https://www.janestreet.com/join-jane-street/programs-and-events/insight/)| All student | Insight into Jane Street for women, transgender, and gender-expansive people |
 | ✨ [Jane Street FOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/focus/) | All student | Insight into Jane Street |
+| ✨ [Nordstrom Nspire](https://careers.nordstrom.com/#/tech/tech-home) | All student | Insight into technology at Nordstrom and interview for internship at the end. Control F nspire on the career site to find it |
 
 <br/>
 
@@ -84,6 +85,8 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | Hacker News Who is Hiring? | All student | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". |
 | ✨ [Equal Opportunity Publications](https://www.eop.com/index.php) | All student | Job fairs for diverse candidates |
 | ✨ [BaddieCon](https://www.eop.com/index.php](https://www.baddiesintech.com/baddiecon)) | All student | Convention for women of color in tech |
+| ✨ [MLH](https://mlh.io/) | All student | Find information about hackathons happening and hosting hackathons |
+| ✨ [Devpost](https://devpost.com/) | All student | Find information about hackathons happening across schools and companies |
 
 <br/>
 
