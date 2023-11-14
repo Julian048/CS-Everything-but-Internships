@@ -8,8 +8,6 @@ Inspiration goes to @codicate for making the [underclassman version](https://git
 
 Will do my best to update frequently Stars & PR appreciated!!
 
-Note: Open/close status is not updated daily. Check yourself just to be sure
-
 ✨ = diversity program
 
 <br/>
