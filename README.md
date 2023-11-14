@@ -50,12 +50,13 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships.
 | [Hack Diversity](https://www.hackdiversity.com/) | All Student  | Provides preparation for and high matching rate for students in the Boston and NYC with Summer internships |
 | [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | 3rd-year students | 8-12 week program. Focused on students from underrepresented backgrounds|
 | [Susa Summer Fellowship](https://susaventures.com/summer-fellows) | All student | An immersive summer program that connects high-performing university students to software engineering internships at startups in the Susa portfolio|
+| [Coding It Forward Fellowship](https://www.codingitforward.com/fellowship) | All student | Coding it Forward’s Fellowship is a paid, 10-week summer opportunity for early-career technologists. Students are matched with a government entity for an internship experience.|
 
 
 <br/>
 
 ## Externships/Insight Series
-These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinasr, training, networking event, and hackathon. Note that almost every big-tech & bank has one of these program, but I'm only highlighting ones exclusive to underclassmen
+These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinasr, training, networking event, and hackathon.
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
